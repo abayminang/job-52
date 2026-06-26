@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'instrument cardigan',
-    artist:    'Taylor Swift',
+    title:     ' i like u so much, youll know it',
+    artist:    'honey jemlan',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 50,       // seconds — where playback begins
